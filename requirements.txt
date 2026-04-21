@@ -1,0 +1,18 @@
+#utilities
+numpy
+pandas
+
+#face recognition
+scikit-learn
+dlib-bin #used for image processing and face recognition
+
+
+#help to detect vector points of the face 
+git+https://github.com/ageitgey/face_recognition_models
+setuptools
+
+supabase #database
+bcrypt #gives hashing method
+segno #used to make qr code
+pillow #helps in image preprocessing
+streamlit #frontend library 
